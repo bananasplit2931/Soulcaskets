@@ -1,0 +1,4 @@
+grave-block: SOUL_SAND
+timer-enabled: false
+timer-duration: 3600
+message-prefix: "<dark_gray>[<light_purple>SoulCaskets</light_purple>]</dark_gray> "

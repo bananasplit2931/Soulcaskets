@@ -1,0 +1,7 @@
+name: SoulCaskets
+version: '1.0.0'
+main: dev.soulcaskets.SoulCaskets
+api-version: '26'
+description: A lightweight death grave plugin for Paper.
+authors: [ your-name ]
+website: https://modrinth.com/plugin/soulcaskets
